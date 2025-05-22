@@ -1,0 +1,2 @@
+# Customer_Sales_Enquiry_GenAI
+The Customer Sales Enquiry Follow-up & Lead Monitoring System using Gen AI is an AI-powered solution that automates lead scoring, sentiment and intent analysis, and personalized follow-ups. By combining machine learning, NLP, and Generative AI, the system helps sales teams identify high-priority leads, generate human-like responses, and improve conversion rates—making lead management faster, smarter, and more effective.
